@@ -1,4 +1,4 @@
-This repository contains the R code used for the simulation study in the manuscript:
+This repository contains the R code and Stan files used for the simulation study in the manuscript:
 
 > **"A comparative analysis of Phase I dose-finding designs incorporating pharmacokinetics information."**
 
